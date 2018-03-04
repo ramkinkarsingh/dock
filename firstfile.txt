@@ -1,1 +1,2 @@
 Hi,This the first file uploded in git gub.
+Edit by GUI.
